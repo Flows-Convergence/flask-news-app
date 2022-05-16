@@ -6,4 +6,4 @@ Jinja2==3.0.2
 MarkupSafe==2.0.1
 Werkzeug==2.0.2
 python-decouple==3.6
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests==2.9.1
